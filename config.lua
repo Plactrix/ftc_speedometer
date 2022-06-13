@@ -2,7 +2,7 @@
 -- @License: GNU General Public License v3.0
 
 Config = {
-  kmhMode = true,
+  kmhMode = false, -- Uses MPH when set to false
   RectAlpha = 100,
   SpeedAlpha = 150,
   AdvancedForPlane = true,
