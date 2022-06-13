@@ -3,7 +3,7 @@ game "gta5"
 
 author "FivemTools"
 description "A speedometer script for FiveM"
-version "1.0.2"
+version "1.0.3"
 
 dependancies {
     "ft_libs"
