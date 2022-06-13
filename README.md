@@ -1,20 +1,13 @@
 # Speedometer
-Simple speedometer!
+A simple speedometer made originally by [FivemTools](https://github.com/FivemTools/ftc_speedometer), edited by [Plactrix](https://github.com/Plactrix/ftc_speedometer)!
 
-## disclaimer
+## Disclaimer
 This is using a lot of part from the old ft_speedometer, so everything isn't coded by me.
 
-## Requirments
-	- ft_libs : https://github.com/FivemTools/ft_libs
+## Dependancies
+ - ft_libs : https://github.com/FivemTools/ft_libs
 	
-## Configuration
-	In configurations.lua :
- 		kmhMode = true, (false to mph mode)
-		RectAlpha = 100, ( 0 - 255)
-  		SpeedAlpha = 150, ( 0 - 255)
-  		AdvancedForPlane = true, ( false to keep the same speedometer in flying vehicle )
-	
-## Picture
+## Screenshots
 	
 	
 | In landed vehicle | In flying vehicle |
